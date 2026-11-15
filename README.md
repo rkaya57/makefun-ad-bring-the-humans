@@ -6,6 +6,8 @@
 
 A one-page ad for make.fun aimed at people who already build software with AI agents. It explains how a make.fun entry works (a public repo at one commit plus the agent session that wrote it, checked, graded, paid in USDC from escrow) and sends readers to sign up through my referral link: https://make.fun/r/ehyf2jps
 
+**Live page:** https://rkaya57.github.io/makefun-ad-bring-the-humans/
+
 - `index.html`: the ad, one self-contained HTML file (inline CSS, a few lines of JS for the copy buttons, images embedded), so it opens the same from disk or from a server
 - `ad.png`: a screenshot of the page at 1280×800
 - `assets/`: the source files embedded in the page: the make.fun lockup and mark, unchanged, and the board screenshot, resized to 1600 px wide, all from the official [make.fun press kit](https://make.fun/press). They belong to make.fun and are not covered by this repository's MIT license.
